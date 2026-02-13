@@ -1,7 +1,5 @@
 <div align="center">
   
-# 👋 Hi, I'm Dev Nebula
-
 ### AI/ML Engineer | Generative AI Specialist | Full-Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/DevNebula300?style=social)](https://github.com/DevNebula300)
